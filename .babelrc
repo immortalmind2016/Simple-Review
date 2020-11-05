@@ -1,0 +1,8 @@
+{
+    "presets": [
+        "env" //only one installed
+    ],
+    "plugins":[
+        "transform-object-rest-spread"
+    ]
+}
